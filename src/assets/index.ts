@@ -5,7 +5,7 @@ import backend from "./backend.png";
 import bulb from "./bulb.svg";
 import close from "./close.svg";
 import creator from "./creator.png";
-import logo from "./logo.svg";
+import logo from "./logo1.png";
 import menu from "./menu.svg";
 import mobile from "./mobile.png";
 import preview from "./preview.png";
